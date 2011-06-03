@@ -1,0 +1,28 @@
+{
+    "name": "nodejs-convore",
+    "version": "0.1.0",
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./convore.js",
+    "engines": {
+        "node": ">=0.4.0"
+    },
+    "dependencies": {
+    },
+    "description": "Node module to work as client with https://convore.com",
+    "tags": [
+	"node",
+	"social",
+	"convore",
+	"topics",
+	"client"
+    ],
+    "author": "Nazar Kulyk <nasar.kulyk@googlemail.com>",
+    "homepage": "https://github.com/schamane/nodejs-convore",
+    "repository":
+    {
+        "type": "git",
+        "url": "git@github.com:schamane/nodejs-convore.git"
+    }
+}
